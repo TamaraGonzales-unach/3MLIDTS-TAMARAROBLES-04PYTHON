@@ -1,0 +1,7 @@
+Nombre : tamara
+Apellidos : gonzalez
+Edad : 19
+Telefono : 9614716479
+Estatura : 1,63
+Genero : Femenino
+

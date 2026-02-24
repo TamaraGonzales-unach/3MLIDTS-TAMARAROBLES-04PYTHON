@@ -11,7 +11,7 @@ def borrar():
 
 def guardar():
     nombres = tbNombre.get()
-    apellidos = tbApellidos.get()
+    
     edad = tbEdad.get()
     tel = tbTelefono.get()
     estatura = tbEstatura.get()
